@@ -4,7 +4,7 @@
 
 各SNSロゴや各インスタンスの favivon などの画像データを含みますので、取り扱い注意であることをご留意ください。
 
-# instances.tsv
+## instances.tsv
 
 - TSV で管理している感じです。
 
@@ -18,7 +18,7 @@
 
 インスタンスリスト不定期更新な感じ。
 
-# instances.db
+## instances.db
 
 - SQLite 形式です。
 
