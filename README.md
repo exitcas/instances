@@ -43,7 +43,7 @@
 
 <hr>
 
-## アニメーション favicon の Reference を提示しなさい！
+## アニメーション favicon の Difference を提示しなさい！
 
 - アニメーション favicon が確認できたのは以下のとおりです。
 - 気づいてない場合は Issue でおせーてください。
