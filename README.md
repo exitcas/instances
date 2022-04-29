@@ -85,7 +85,7 @@
 |   14  | Plume         | ![Logo](https://itk.pw/e? "Logo") |
 |   15  | Friendica     | ![Logo](https://itk.pw/f? "Logo") |
 |   16  |<s>Gab Social</s>| ![Logo](https://itk.pw/g? "Logo") |
-|   17  |<s>Hubzilla</s>| ![Logo](https://itk.pw/f? "Logo") |
+|   17  |<s>Hubzilla</s>| ![Logo](https://itk.pw/h? "Logo") |
 |   18  | Prismo        | ![Logo](https://itk.pw/i? "Logo") |
 |   19  | <s>Juick</s>  | ![Logo](https://itk.pw/j? "Logo") |
 |   20  |               |                                   |
