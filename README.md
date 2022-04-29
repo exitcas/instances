@@ -1,8 +1,10 @@
 # instances
 
-[InstanceTicker/InstanceTicker](https://github.com/InstanceTicker/InstanceTicker) で使ってるインスタンスリストです。
+- [InstanceTicker/InstanceTicker](https://github.com/InstanceTicker/InstanceTicker) で使ってるインスタンスリストです。
 
-各SNSロゴや各インスタンスの favivon などの画像データを含みますので、取り扱い注意であることをご留意ください。
+- 各SNSロゴや各インスタンスの favivon などの画像データを含みますので、取り扱い注意であることをご留意ください。
+
+- SNS (Social networking service) means "social media" in Japanglish...
 
 ## instances.tsv
 
@@ -60,10 +62,38 @@
 
 <hr>
 
-### SNSロゴ の Difference を提示しなさい！
+### SNS Logo の Difference を提示しなさい！
 
-- 準備中です。
+- 以下のとおりです。
+- 抹消線は廃止されたものです。
 
+| SNS   | SNS Class Name| Logo                              |
+| ----- | ------------- | --------------------------------- | 
+|   1   | Mastodon (jp) | ![Logo](https://itk.pw/1? "Logo") |
+|   2   | Mastodon      | ![Logo](https://itk.pw/2? "Logo") |
+|   3   | Pleroma       | ![Logo](https://itk.pw/3? "Logo") |
+|   4   | Misskey       | ![Logo](https://itk.pw/4? "Logo") |
+|   5   | PeerTube      | ![Logo](https://itk.pw/5? "Logo") |
+|   6   | GNU Social    | ![Logo](https://itk.pw/6? "Logo") |
+|   7   | Write Freely  | ![Logo](https://itk.pw/7? "Logo") |
+|   8   | Pixelfed      | ![Logo](https://itk.pw/8? "Logo") |
+|   9   | Microblog.pub | ![Logo](https://itk.pw/9? "Logo") |
+|   10  |               |                                   |
+|   11  | Bookwyrm      | ![Logo](https://itk.pw/b? "Logo") |
+|   12  | Socialhome    | ![Logo](https://itk.pw/c? "Logo") |
+|   13  | Dolphin       | ![Logo](https://itk.pw/d? "Logo") |
+|   14  | Plume         | ![Logo](https://itk.pw/e? "Logo") |
+|   15  | Friendica     | ![Logo](https://itk.pw/f? "Logo") |
+|   16  |<s>Gab Social</s>| ![Logo](https://itk.pw/g? "Logo") |
+|   17  |<s>Hubzilla</s>| ![Logo](https://itk.pw/f? "Logo") |
+|   18  | Prismo        | ![Logo](https://itk.pw/i? "Logo") |
+|   19  | <s>Juick</s>  | ![Logo](https://itk.pw/j? "Logo") |
+|   20  |               |                                   |
+|   21  | Lemmy         | ![Logo](https://itk.pw/l? "Logo") |
+|   22  | Meow.fan      | ![Logo](https://itk.pw/m? "Logo") |
+| 23-59 |               |                                   |
+|   60  | Unknown       | ![Logo](https://itk.pw/Y? "Logo") |
+|   61  |               |                                   |
 
 <hr>
 
