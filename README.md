@@ -100,15 +100,16 @@
 ### アニメーション favicon の Difference を提示しなさい！
 
 - アニメーション favicon が確認できたのは以下のとおりです。
-- 気づいてない場合は Issue でおせーてください。
+- われわれが、アニメーション favicon が確認できず気づいてない場合は Issue でおせーてください。
+- アニメーションスピードが異なるのは、縮小したときの見栄えと容量削減のためです。
 
 | Server (Instance) | Original <br>(16x16) | Using |
 | :---         |     :---:      |     :---:      |
-| qoto.org   | <img src="https://qoto.org/favicon.ico" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/LJ? "画像") |
-| freecumextremist.com | <img src="https://freecumextremist.com/favicon.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/kv? "画像") |
-| freespeech.group | <img src="https://freespeech.group/favicon.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/eq? "画像") |
-| jigglypuff.club | <img src="https://jigglypuff.club/files/0118e4bf-ef61-4565-805e-7fa6271beb0a" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/o8? "画像") |
-| fedi.nullob.si | <img src="https://cdn.nullob.si/file/misskey/null/7023a0f6-cf72-4215-8145-5ef3e059820e.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/nW? "画像") |
+| qoto.org   | <img src="https://res.cloudinary.com/miy/a/2959.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/LJ? "画像") |
+| freecumextremist.com | <img src="https://res.cloudinary.com/miy/a/1271.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/kv? "画像") |
+| freespeech.group | <img src="https://res.cloudinary.com/miy/a/894.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/eq? "画像") |
+| jigglypuff.club | <img src="https://res.cloudinary.com/miy/a/1496.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/o8? "画像") |
+| fedi.nullob.si | <img src="https://res.cloudinary.com/miy/a/1484.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/nW? "画像") |
 
 
 <hr>
