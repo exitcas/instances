@@ -63,7 +63,7 @@
 ### SNS Logo の Difference を提示しなさい！
 
 - 以下のとおりです。
-- 抹消線は廃止されたものです。
+- 抹消線はリストから除外にされたものです。
 
 | SNS   | SNS Class Name| Logo                              |
 | ----- | ------------- | --------------------------------- | 
@@ -82,10 +82,10 @@
 |   13  | Dolphin       | ![Logo](https://itk.pw/d? "Logo") |
 |   14  | Plume         | ![Logo](https://itk.pw/e? "Logo") |
 |   15  | Friendica     | ![Logo](https://itk.pw/f? "Logo") |
-|   16  |<s>Gab Social</s>| ![Logo](https://itk.pw/g? "Logo") |
-|   17  |<s>Hubzilla</s>| ![Logo](https://itk.pw/h? "Logo") |
+|   16  |<s> Gab Social </s>| ![Logo](https://itk.pw/g? "Logo") |
+|   17  |<s> Hubzilla </s>| ![Logo](https://itk.pw/h? "Logo") |
 |   18  | Prismo        | ![Logo](https://itk.pw/i? "Logo") |
-|   19  | <s>Juick</s>  | ![Logo](https://itk.pw/j? "Logo") |
+|   19  |<s> Juick </s> | ![Logo](https://itk.pw/j? "Logo") |
 |   20  |               |                                   |
 |   21  | Lemmy         | ![Logo](https://itk.pw/l? "Logo") |
 |   22  | Meow.fan      | ![Logo](https://itk.pw/m? "Logo") |
