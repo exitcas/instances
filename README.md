@@ -103,12 +103,12 @@
 
 | Server (Instance) | Original<br>(16x16) | Using<br>(14x14) |
 | :---         |     :---:      |     :---:      |
-| qoto.org   | <img src="https://res.cloudinary.com/miy/a/2959.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/LJ? "画像") |
-| freecumextremist.com | <img src="https://res.cloudinary.com/miy/a/1271.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/kv? "画像") |
-| freespeech.group | <img src="https://res.cloudinary.com/miy/a/894.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/eq? "画像") |
-| waifuism.life | <img src="https://res.cloudinary.com/miy/a/1287.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/kL? "画像") |
-| jigglypuff.club | <img src="https://res.cloudinary.com/miy/a/1496.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/o8? "画像") |
-| fedi.nullob.si | <img src="https://res.cloudinary.com/miy/a/1484.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/nW? "画像") |
+| qoto.org   | <img src="https://res.cloudinary.com/miy/a/2959.gif" title="画像" alt="画像" width="16" height="16">           | <img src="https://itk.pw/LJ" title="画像" alt="画像" width="14" height="14"> |
+| freecumextremist.com | <img src="https://res.cloudinary.com/miy/a/1271.png" title="画像" alt="画像" width="16" height="16"> | <img src="https://itk.pw/kv" title="画像" alt="画像" width="14" height="14"> |
+| freespeech.group | <img src="https://res.cloudinary.com/miy/a/894.png" title="画像" alt="画像" width="16" height="16">      | <img src="https://itk.pw/eq" title="画像" alt="画像" width="14" height="14"> |
+| waifuism.life | <img src="https://res.cloudinary.com/miy/a/1287.png" title="画像" alt="画像" width="16" height="16">        | <img src="https://itk.pw/kL" title="画像" alt="画像" width="14" height="14"> |
+| jigglypuff.club | <img src="https://res.cloudinary.com/miy/a/1496.gif" title="画像" alt="画像" width="16" height="16">      | <img src="https://itk.pw/o8" title="画像" alt="画像" width="14" height="14"> |
+| fedi.nullob.si | <img src="https://res.cloudinary.com/miy/a/1484.gif" title="画像" alt="画像" width="16" height="16">       | <img src="https://itk.pw/nW" title="画像" alt="画像" width="14" height="14"> |
 
 
 <hr>
