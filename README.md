@@ -101,7 +101,7 @@
 - われわれが、アニメーション favicon が確認できず気づいてない場合は Issue でおせーてください。
 - アニメーションスピードが異なるのは、縮小したときの見栄えと容量削減のためです。
 
-| Server (Instance) | Original <br>(16x16) | Using |
+| Server (Instance) | Original<br>(16x16) | Using(14x14) |
 | :---         |     :---:      |     :---:      |
 | qoto.org   | <img src="https://res.cloudinary.com/miy/a/2959.gif" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/LJ? "画像") |
 | freecumextremist.com | <img src="https://res.cloudinary.com/miy/a/1271.png" title="画像" alt="画像" width="16" height="16"> | ![画像](https://itk.pw/kv? "画像") |
