@@ -22,11 +22,18 @@
 ## instances.db
 
 - `table: instances` に instances.tsv を格納したものです。
+- 気まぐれで更新しないかもです。
 
+
+<hr>
+
+<hr>
+
+<hr>
 
 # Issue にて要望を受け付けます。
 
-<hr>
+
 
 ## うちのインスタンスがねえじゃん or 入れてくれるな！
 - 手動更新なので許してください。追加や抹消の依頼は Issue してください。
@@ -118,6 +125,11 @@
 - Google or Deeple の翻訳サイト使ってください。
 
 <hr>
+
+<hr>
+
+<hr>
+
 
 # Licence
 
